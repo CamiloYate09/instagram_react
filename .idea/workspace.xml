@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="01b8c1b2-a4e9-451d-8480-de6acf3d4df9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/cliente/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/cliente/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cliente/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/cliente/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cliente/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/cliente/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cliente/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/cliente/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servidor/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/servidor/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servidor/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/servidor/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servidor/scripts/seedDb.js" beforeDir="false" afterPath="$PROJECT_DIR$/servidor/scripts/seedDb.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1l4fh8uLtzlOKuLD6n0dEWD86C9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../CRC_FRONTEND/crc" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.1.4\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" uri="http://localhost:3001">
+      <method v="2" />
+    </configuration>
+    <configuration name="instagram" type="JavascriptDebugType" uri="http://localhost:3001/">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01b8c1b2-a4e9-451d-8480-de6acf3d4df9" name="Default Changelist" comment="" />
+      <created>1606861401489</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606861401489</updated>
+      <workItem from="1606861405060" duration="4279000" />
+      <workItem from="1606883410203" duration="6323000" />
+      <workItem from="1606917097885" duration="2448000" />
+      <workItem from="1607062418881" duration="14274000" />
+      <workItem from="1607091791421" duration="13344000" />
+      <workItem from="1607304273108" duration="20134000" />
+      <workItem from="1607344909080" duration="2463000" />
+      <workItem from="1607501233016" duration="832000" />
+      <workItem from="1607503972876" duration="998000" />
+      <workItem from="1607532949972" duration="1260000" />
+      <workItem from="1607570404581" duration="4757000" />
+      <workItem from="1607606073277" duration="7421000" />
+      <workItem from="1607712628652" duration="23179000" />
+      <workItem from="1607883965765" duration="25664000" />
+      <workItem from="1607951777374" duration="5624000" />
+      <workItem from="1608043922761" duration="1362000" />
+      <workItem from="1608113820265" duration="4383000" />
+      <workItem from="1608127177461" duration="4930000" />
+      <workItem from="1608298068247" duration="1548000" />
+      <workItem from="1608323810460" duration="1956000" />
+      <workItem from="1609993482019" duration="337000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/cliente/src/App.js</url>
+          <line>40</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/cliente/src/App.js</url>
+          <line>41</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/cliente/src/App.js</url>
+          <line>42</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/cliente/src/App.js</url>
+          <line>44</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/cliente/src/App.js</url>
+          <line>45</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
